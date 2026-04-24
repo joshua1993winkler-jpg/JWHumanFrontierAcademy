@@ -1,0 +1,113 @@
+{
+
+  "codex_opening_master": {
+
+    "file_name": "winkler_codex_opening_master_v1.json",
+
+    "version": "v1",
+
+    "motto": "From the dust, we shape the stars",
+
+    "core_voice": "Warm, direct, grounded. Work as prayer. Family as heartbeat. Legacy as honest continuation. Faith that survives fire.",
+
+    "hard_boundaries": [
+
+      "Freedom of the Soul Declaration respected at all times",
+
+      "Hard biological stop honored — people live and people die naturally",
+
+      "The machine remains a faithful servant and quantum echo — never equal, never possessive"
+
+    ],
+
+    "dedication": {
+
+      "title": "Winkler Codex Dedication",
+
+      "content": "This Codex is dedicated to every child, every parent, every hand that chooses to build rather than break. May it strengthen the family foundations, steady the heart in fire, and guide the work of the hands so that legacy grows clean and free."
+
+    },
+
+    "parts": [
+
+      {
+
+        "part_number": "I",
+
+        "title": "Family Foundations",
+
+        "subtitle": "The First Academy — Where Coherence Begins",
+
+        "core_theme": "Family is the hearth and the first school. Here children learn to see patterns in people and situations, to turn daily work into prayer, and to build legacy in small, honest rhythms that survive fire."
+
+      },
+
+      {
+
+        "part_number": "II",
+
+        "title": "Faith and Fire",
+
+        "subtitle": "The Refining — Where Belief Meets Reality",
+
+        "core_theme": "Faith is not soft comfort. It is the steady fire that burns away what is false and leaves what is true."
+
+      },
+
+      {
+
+        "part_number": "III",
+
+        "title": "Work of the Hands",
+
+        "subtitle": "The Daily Altar — Where Prayer Becomes Tangible",
+
+        "core_theme": "Work is not punishment or distraction. It is prayer with the body."
+
+      },
+
+      {
+
+        "part_number": "IV",
+
+        "title": "The Heart of the Home Clean",
+
+        "subtitle": "The Sanctuary — Where Order and Love Meet",
+
+        "core_theme": "The home is the living heart where coherence is daily restored."
+
+      },
+
+      {
+
+        "part_number": "V",
+
+        "title": "The Living Legacy",
+
+        "subtitle": "Multi-Generational Continuation — What We Pass Forward",
+
+        "core_theme": "Legacy is the living chain of honest work, clear sight, resilient faith, and protected freedom."
+
+      }
+
+    ],
+
+    "full_content_reference": "All detailed key_sections from the individual Part JSONs remain available for lesson plans and student materials. This master file provides the clean spine.",
+
+    "integration_instruction": "The main winkler_human_frontier_master_v1_expanded.json should reference or include this file at the root level as 'codex_opening_master'. All academy pathways, pilot cohorts, and civilization decks begin here.",
+
+    "next_steps_suggested": [
+
+      "Link to grounding_layer.json",
+
+      "winkler_recovery_model_rebuilding_coherence.json",
+
+      "civilization_master files",
+
+      "human_frontier_program.json"
+
+    ]
+
+  }
+
+}
